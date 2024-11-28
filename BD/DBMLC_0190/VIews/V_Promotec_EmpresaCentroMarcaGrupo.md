@@ -1,7 +1,7 @@
 # View: V_Promotec_EmpresaCentroMarcaGrupo
 
 ## Usa los objetos:
-- [Centros](Centros.md)
+- [[Centros]]
 - [[Empresas]]
 - [[EmpresasCentros]]
 - [[VehiculosMarcas]]
